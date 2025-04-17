@@ -1,0 +1,4 @@
+*.pbix~*   # Ignore Power BI temporary files
+*.bak      # Ignore backup files
+*.log      # Ignore log files
+*.tmp      # Ignore temporary files
